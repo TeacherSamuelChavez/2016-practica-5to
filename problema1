@@ -1,0 +1,6 @@
+def proble1 (num):
+	if proble1 % = 2:
+		print ("el numero es par")
+	else:
+		print("el numero es impar")
+proble1(9)	
